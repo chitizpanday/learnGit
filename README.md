@@ -1,2 +1,2 @@
-# learnGit
-MAYA K HOLA 2
+# learnGi
+MAYA K HOLA 10
